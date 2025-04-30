@@ -56,8 +56,3 @@ Some of the insights derived from this analysis include:
 3. Open `eda.ipynb` using Jupyter Notebook.
 4. Run the cells step-by-step to view results and visualizations.
 
-## 📬 Contact
-
-For queries or contributions, please contact:  
-**Himanshu Sharma**  
-[Add your email or GitHub here]
